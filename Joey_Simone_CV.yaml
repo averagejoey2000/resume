@@ -46,30 +46,28 @@ cv:
         highlights:
           - '**Coursework:** Physical Science, Accounting and Economics, Humantities'
     experience:
-      - company: Apple Computer
-        position: Software Engineer, Intern
+      - company: California Maritime Academy
+        position: Tutor
         location: CA, USA
-        start_date: 2004-06
-        end_date: 2004-08
+        start_date: 2021-10
+        end_date: 2024-05
         highlights:
-          - Reduced time to render the user's buddy list by 75%
-            by implementing a prediction algorithm.
-          - Implemented iChat integration with OS X Spotlight
-            Search by creating a tool that extracts metadata from
-            saved chat transcripts and provides metadata to a
-            system-wide search database.
-          - Redesigned chat file format and implemented backward
-            compatibility for search.
-      - company: Microsoft Corporation
-        position: Lead Student Ambassador
-        location: WA, USA
-        start_date: 2003-09
-        end_date: 2005-04
+          - Helped hundreds of students learn advanced skills in various subjects by leveraging different learning styles and emotional communication to guide them through difficult and confusing techniques, leading to improved academic outcomes.
+          - Created resources for the tutoring center, including detailed instructional material unpacked from a very dense and obscure topic, and developed tools for checking one's work.
+          - Identified Areas for Improvement in student papers, considered their feelings and experiences, and guided them in crafting statements which more accurately and professionally represented their ideas to their target audiences.
+          - Assisted students with creative and technical writing as an English tutor, encouraged them to organize their thoughts meaningfully, research thoroughly, cite correctly, make effective use of rhetoric, and express complex ideas and emotions.
+      - company: Training Ship Golden Bear
+        position: Upper Class Cadet
+        location: Cabo, MX; Apia, Samoa; Hilo, HI; Astoria, OR
+        start_date: 2023-05
+        end_date: 2023-07
         highlights:
-          - Promoted to Lead Student Ambassador in the Fall of
-            2004, supervised 10 - 15 Student Ambassadors.
-          - 'Created and taught a computer science course, CSE
-            099: Software Design and Development.'
+          - Won Grand Prize for Celestial Navigation
+          - Oversaw multi-day work projects and managed the work and safety of underclass cadets for manual labor
+          - Assisted Chief Mate Doug Nagy with stability calculation and ballast operations
+          - Simulation Training
+          - Fast Rescue Boat Training
+          - Stood Satisfactory Bridge Watches, including in Pilotage and Traffic Scenarios
       - company: University of Pennsylvania
         position: Head Teaching Assistant
         location: PA, USA
