@@ -36,10 +36,15 @@ cv:
         start_date: 2020-08
         end_date: 2024-05
         highlights:
-          - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
-          - '**Coursework:** Software Foundations, Computer Architecture,
-            Algorithms, Artificial Intelligence, Comparison of
-            Learning Algorithms, Computational Theory.'
+          - 'GPA: 3.7/3.9 ([Transcript](https://github.com/averagejoey2000/resume/transcript.pdf))'
+          - '**Coursework:** Navigation, Ship Business and Management, Ship Stability, Ship Safety, Survival, Minor of Business Administration.'
+      - institution: College of Southern Nevada
+        area: Business
+        degree: Associate not completed, transferred to CSUMA
+        start_date: 2017-08
+        end_date: 2024-05
+        highlights:
+          - '**Coursework:** Physical Science, Accounting and Economics, Humantities'
     experience:
       - company: Apple Computer
         position: Software Engineer, Intern
