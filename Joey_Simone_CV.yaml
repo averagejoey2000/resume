@@ -1,5 +1,6 @@
 cv:
   name: Joey Simone
+  pronouns: (she/her/he/him)
   location: Vallejo, CA
   email: averagejoey2000@gmail.com
   phone: tel:+1(702)612-5964
@@ -40,12 +41,15 @@ cv:
           - '**Coursework:** Navigation, Ship Business and Management, Ship Stability, Ship Safety, Survival, Minor of Business Administration.'
       - institution: College of Southern Nevada
         area: Business
-        degree: Associate not completed, transferred to CSUMA
+          #        degree: Associate not completed, transferred to CSUMA
         start_date: 2017-08
         end_date: 2024-05
         highlights:
           - '**Coursework:** Physical Science, Accounting and Economics, Humantities'
     experience:
+      - company: Military Sealift Command
+        position: Third Officer
+        start_date: 2024-06
       - company: California Maritime Academy
         position: Tutor
         location: CA, USA
@@ -68,31 +72,45 @@ cv:
           - Simulation Training
           - Fast Rescue Boat Training
           - Stood Satisfactory Bridge Watches, including in Pilotage and Traffic Scenarios
-      - company: University of Pennsylvania
-        position: Head Teaching Assistant
-        location: PA, USA
-        start_date: 2001-10
-        end_date: 2005-05
+      - company: Training Ship Golden Bear
+        position: Commercial Cadet
+        location: HNL, SFO, SAN, VJO
+        start_date: 2022-07
+        end_date: 2022-08
         highlights:
-          - Implemented a user interface for the VS open file
-            switcher (ctrl-tab) and extended it to tool windows.
-          - Created a service to provide gradient across VS and
-            VS add-ins. Optimized service via caching.
-          - Programmer Productivity Research Center (Summers 2001,
-            2002)
-          - 'Built app to compute the similarity of all methods
-            in a code base, reduced time from $\mathcal{O}(n^2)$
-            to $\mathcal{O}(n \log n)$. '
-          - Created a test case generation tool that creates random
-            XML docs from XML Schema.
-      - company: Microsoft Corporation
-        position: Software Design Engineer, Intern
-        location: WA, USA
-        start_date: 2003-06
-        end_date: 2003-08
+          - Stood Mirrored Watches for pilotage and ocean passage. During simulated GPS failure lasting 20 days, demonstrated excellence in celestial and terrestrial navigation. Instructed cohorts and underclassmen from different institutions on technique.
+          - Performed preventative maintenance and inspection on mission critical equipment, shadowed managers for labor projects while continuing to participate.
+      - company: Hydra Offshore Construction
+        position: Commercial Cadet, Intern
+        location: Port Arthur, TX
+        start_date: 2022-05
+        end_date: 2022-06
         highlights:
-          - Promoted to Lead Student Ambassador in the Fall of
-            2004, supervised 10 - 15 Student Ambassadors.
+          - Stood 12 hour navigation watches, including hand steering with z-drives up the Mississippi River to New Orleans.
+          - Experience with DP systems including station keeping and DP Autopilot.
+          - Assimilated with international crew from the Philippines.
+          - Performed 12 hours of Day Work daily, including removal of saturation diving system.
+      - company: Training Ship Golden Bear
+        position: Underclass Cadet
+        location: HNL, VJO
+        start_date: 2021-07
+        end_date: 2021-08
+        highlights:
+          - Stood Mirrored Watches as a helmsman, lookout, messenger, and roving security.
+          - Firefighting Training.
+          - Assisted with Day Work
+          - Tied for 1st at Knot Tying Contest
+      - company:  Clark County Parks and Rec
+        position: Headguard
+        location: Las Vegas, NV
+        start_date: 2019-09
+        end_date: 2020-08
+        highlights:
+          - Obtained Red Cross Water Safety Instructor and Lifeguard Instructor Certification.
+          - Promoted to management inside 1 year.
+          - Worked opening shifts at indoor and outdoor pool.
+          - Maintained sanitary conditions.
+          - Performed first aid, taught skill refreshers, conducted safety audits.
     publications:
       - title: Magneto-Thermal Thin Shell Approximation for 3D
           Finite Element Analysis of No-Insulation Coils
