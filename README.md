@@ -24,7 +24,7 @@ You can view or download my resume using the links below:
 -
 - ## License
 -
-- [The repo is licensed with The Unlicense](github.com/averagejoey2000/resume/LICENSE)
+- [The repo is licensed with The MIT License because of RenderCV](github.com/averagejoey2000/resume/LICENSE)
 -
 - ---
 -
