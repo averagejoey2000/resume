@@ -7,7 +7,7 @@ Welcome to my resume repository. Here you can find the most up-to-date version o
 You can view or download my resume using the links below:
 
 - [Resume (PDF)](./resume.pdf)
-- - [Resume (TeX)](./resume.tex) *(if you prefer the LaTeX source file)*
+- - [Resume (TeX)](./src/resume.tex) *(if you prefer the LaTeX source file)*
 -
 - ## About Me
 -
