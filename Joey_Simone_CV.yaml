@@ -74,7 +74,7 @@ cv:
           - Stood Satisfactory Bridge Watches, including in Pilotage and Traffic Scenarios
       - company: Training Ship Golden Bear
         position: Commercial Cadet
-        location: HNL, SFO, SAN, VJO
+        location: Honolulu, San Francisco, San Diego, Vallejo
         start_date: 2022-07
         end_date: 2022-08
         highlights:
@@ -111,51 +111,53 @@ cv:
           - Worked opening shifts at indoor and outdoor pool.
           - Maintained sanitary conditions.
           - Performed first aid, taught skill refreshers, conducted safety audits.
-    publications:
-      - title: Magneto-Thermal Thin Shell Approximation for 3D
-          Finite Element Analysis of No-Insulation Coils
-        authors:
-          - Albert Smith
-          - '***Joey Simone***'
-          - Jane Derry
-          - Harry Tom
-          - Frodo Baggins
-        doi: 10.1109/TASC.2023.3340648
-        date: 2004-01
+#    publications:
+#      - title: Magneto-Thermal Thin Shell Approximation for 3D
+#          Finite Element Analysis of No-Insulation Coils
+#        authors:
+#          - Albert Smith
+#          - '***Joey Simone***'
+#          - Jane Derry
+#          - Harry Tom
+#          - Frodo Baggins
+#        doi: 10.1109/TASC.2023.3340648
+#        date: 2004-01
+    license:
+        - label: United States Coast Guard Licensed Merchant Mariner
+          details: 
+          - Third Mate Unlimited Tons upon Oceans
+          - Master 100 Tons Near Coastal
+          - Able Seaman
+          - Wiper
+          - Food Handler
+
     projects:
-      - name: Multi-User Drawing Tool
-        date: 2004
+      - name: Celestial Navigation Project Cadet Guide
+        date: 2024
         highlights:
-          - Developed an electronic classroom where multiple users
-            can view and simultaneously draw on a "chalkboard"
-            with each person's edits synchronized.
-          - Used C++ and MFC.
-      - name: Synchronized Calendar
-        start_date: 2003
-        end_date: 2004
-        highlights:
-          - Developed a desktop calendar with globally shared
-            and synchronized calendars, allowing users to schedule
-            meetings with other users.
-          - Used C#.NET, SQL, and XML.
-      - name: Operating System
-        date: 2002
-        highlights:
-          - Developed a UNIX-style OS with a scheduler, file system,
-            text editor, and calculator.
-          - Used C.
-    additional_experience_and_awards:
-      - label: Instructor (2003 - 2005)
-        details: Taught two full-credit Computer Science courses.
-      - label: Third Prize, Senior Design Projects
-        details: Awarded 3rd prize for a synchronized calendar
-          project out of 100 projects.
-    technologies:
-      - label: Languages
-        details: C++, C, Java, Objective-C, C#.NET, SQL, JavaScript
-      - label: Software
-        details: Visual Studio, Microsoft SQL Server, Eclipse,
-          XCode, Interface Builder
+          - Developed detailed documents with examples in understandable language specifically crafted for the cadets embarking on Senior Bear Cruise. Made a collaborative repository for those cadets to contribute corrections and additions.
+          - Used GitHub and \LaTeX
+      - name: Sea Shanty Drag
+        date: 2023
+      - highlights:
+          - Recorded a collection of meaningful sea songs in various costumes aboard the former U.S. Army Survey Corps Ship 'Sacajawea' and wrote about their connection to the cultural experience of Mariners, Filipinos, and LGBT people; particularly how they resonate with me as the intersection of those three groups.
+      - name: Paddy West School of Seamanship at Dickens Fair
+      - date: 2022 and 2023
+      - highlights:
+          - Taught young children nautical skills including shipboard vocabulary and knot tying.
+          - Performed in singing and acting routines with improvised and memorized segments on and off stage several times daily.
+#    additional_experience_and_awards:
+#      - label: Instructor (2003 - 2005)
+#        details: Taught two full-credit Computer Science courses.
+#      - label: Third Prize, Senior Design Projects
+#        details: Awarded 3rd prize for a synchronized calendar
+#          project out of 100 projects.
+#    technologies:
+#      - label: Languages
+#        details: C++, C, Java, Objective-C, C#.NET, SQL, JavaScript
+#      - label: Software
+#        details: Visual Studio, Microsoft SQL Server, Eclipse,
+#          XCode, Interface Builder
 design:
   theme: classic
   font: Source Sans 3
