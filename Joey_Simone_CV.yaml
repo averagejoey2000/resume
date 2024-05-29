@@ -27,7 +27,7 @@ cv:
     experience:
       - company: Military Sealift Command
         position: Third Officer
-        start_date: 2024-06
+        date: 2024-06
       - company: California Maritime Academy
         position: Tutor
         location: CA, USA
@@ -91,12 +91,7 @@ cv:
           - Performed first aid, taught skill refreshers, conducted safety audits.
     license:
       - label: United States Coast Guard Licensed Merchant Mariner
-        details: 
-          - Third Mate Unlimited Tons upon Oceans
-          - Master 100 Tons Near Coastal
-          - Able Seaman
-          - Wiper
-          - Food Handler
+        details: Unlimited Tonnage Third Officer upon Oceans.
     projects:
       - name: Celestial Navigation Project Cadet Guide
         date: 2024
@@ -106,7 +101,7 @@ cv:
       - name: Sea Shanty Drag
         date: 2023
         highlights:
-          - Recorded a collection of meaningful sea songs in various costumes aboard the former U.S. Army Survey Corps Ship _Sacajawea_ and wrote about their connection to the cultural experience of Mariners, Filipinos, and LGBT people; particularly how they resonate with me as the intersection of those three groups.
+          - Recorded a collection of meaningful sea songs in various costumes aboard the former U.S. Army Survey Corps Ship *Sacajawea* and wrote about their connection to the cultural experience of Mariners, Filipinos, and LGBT people; particularly how they resonate with me as the intersection of those three groups.
       - name: Paddy West School of Seamanship at Dickens Fair
         date: 2022
         highlights:
@@ -119,7 +114,7 @@ design:
   page_size: letterpaper
   color: '#004f90'
   disable_external_link_icons: false
-  disable_page_numbering: false
+  disable_page_numbering: true
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   disable_last_updated_date: false
   last_updated_date_style: Last updated in TODAY
