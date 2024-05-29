@@ -8,6 +8,8 @@ cv:
       username: averagejoey2000
     - network: GitHub
       username: averagejoey2000
+        #    - network:  YouTube
+        #username: averagejoey2000
   sections:
     education:
       - institution: California State University Maritime Academy
@@ -23,11 +25,11 @@ cv:
         start_date: 2017-08
         end_date: 2024-05
         highlights:
-          - '**Coursework:** Physical Science, Accounting and Economics, Humanities'
+          - '**Coursework:** Intro to Business, Accounting and Economics, General Education'
     experience:
       - company: Military Sealift Command
         position: Third Officer
-        date: 2024-06
+        date: 2024-06-03
       - company: California Maritime Academy
         position: Tutor
         location: CA, USA
@@ -41,8 +43,8 @@ cv:
       - company: Training Ship Golden Bear
         position: Upper Class Cadet
         location: Cabo, MX; Apia, Samoa; Hilo, HI; Astoria, OR
-        start_date: 2023-05
-        end_date: 2023-07
+        start_date: 2023-05-04
+        end_date: 2023-07-11
         highlights:
           - Won Grand Prize for Celestial Navigation
           - Oversaw multi-day work projects and managed the work and safety of underclass cadets for manual labor
@@ -53,16 +55,16 @@ cv:
       - company: Training Ship Golden Bear
         position: Commercial Cadet
         location: Honolulu, San Francisco, San Diego, Vallejo
-        start_date: 2022-07
-        end_date: 2022-08
+        start_date: 2022-07-12
+        end_date: 2022-08-26
         highlights:
           - Stood Mirrored Watches for pilotage and ocean passage. During simulated GPS failure lasting 20 days, demonstrated excellence in celestial and terrestrial navigation. Instructed cohorts and underclassmen from different institutions on technique.
           - Performed preventative maintenance and inspection on mission critical equipment, shadowed managers for labor projects while continuing to participate.
       - company: Hydra Offshore Construction
         position: Commercial Cadet, Intern
         location: Port Arthur, TX
-        start_date: 2022-05
-        end_date: 2022-06
+        start_date: 2022-05-10
+        end_date: 2022-06-07
         highlights:
           - Stood 12 hour navigation watches, including hand steering with z-drives up the Mississippi River to New Orleans.
           - Experience with DP systems including station keeping and DP Autopilot.
@@ -71,8 +73,8 @@ cv:
       - company: Training Ship Golden Bear
         position: Underclass Cadet
         location: HNL, VJO
-        start_date: 2021-07
-        end_date: 2021-08
+        start_date: 2021-07-14
+        end_date: 2021-08-27
         highlights:
           - Stood Mirrored Watches as a helmsman, lookout, messenger, and roving security.
           - Firefighting Training.
