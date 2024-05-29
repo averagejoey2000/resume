@@ -8,8 +8,10 @@ cv:
       username: averagejoey2000
     - network: GitHub
       username: averagejoey2000
-        #    - network:  YouTube
-        #username: averagejoey2000
+    - network:  YouTube
+      username: averagejoey2000
+    - network: Instagram
+      username: averagejoey2000
   sections:
     education:
       - institution: California State University Maritime Academy
