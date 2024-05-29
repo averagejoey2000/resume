@@ -20,11 +20,10 @@ cv:
           - '**Coursework:** Navigation, Ship Business and Management, Ship Stability, Ship Safety, Survival, Minor of Business Administration.'
       - institution: College of Southern Nevada
         area: Business
-          #        degree: Associate not completed, transferred to CSUMA
         start_date: 2017-08
         end_date: 2024-05
         highlights:
-          - '**Coursework:** Physical Science, Accounting and Economics, Humantities'
+          - '**Coursework:** Physical Science, Accounting and Economics, Humanities'
     experience:
       - company: Military Sealift Command
         position: Third Officer
@@ -35,96 +34,84 @@ cv:
         start_date: 2021-10
         end_date: 2024-05
         highlights:
-          - 'Helped hundreds of students learn advanced skills in various subjects by leveraging different learning styles and emotional communication to guide them through difficult and confusing techniques, leading to improved academic outcomes.'
-          - 'Created resources for the tutoring center, including detailed instructional material unpacked from a very dense and obscure topic, and developed tools for checking work.'
-          - 'Identified Areas for Improvement in student papers, considered their feelings and experiences, and guided them in crafting statements which more accurately and professionally represented their ideas to their target audiences.'
-          - 'Assisted students with creative and technical writing as an English tutor, encouraged them to organize their thoughts meaningfully, research thoroughly, cite correctly, make effective use of rhetoric, and express complex ideas and emotions.'
+          - Helped hundreds of students learn advanced skills in various subjects by leveraging different learning styles and emotional communication to guide them through difficult and confusing techniques, leading to improved academic outcomes.
+          - Created resources for the tutoring center, including detailed instructional material unpacked from a very dense and obscure topic, and developed tools for checking work.
+          - Identified Areas for Improvement in student papers, considered their feelings and experiences, and guided them in crafting statements which more accurately and professionally represented their ideas to their target audiences.
+          - Assisted students with creative and technical writing as an English tutor, encouraged them to organize their thoughts meaningfully, research thoroughly, cite correctly, make effective use of rhetoric, and express complex ideas and emotions.
       - company: Training Ship Golden Bear
         position: Upper Class Cadet
         location: Cabo, MX; Apia, Samoa; Hilo, HI; Astoria, OR
         start_date: 2023-05
         end_date: 2023-07
         highlights:
-          - 'Won Grand Prize for Celestial Navigation'
-          - 'Oversaw multi-day work projects and managed the work and safety of underclass cadets for manual labor'
-          - 'Assisted Chief Mate Doug Nagy with stability calculation and ballast operations'
-          - 'Simulation Training'
-          - 'Fast Rescue Boat Training'
-          - 'Stood Satisfactory Bridge Watches, including in Pilotage and Traffic Scenarios'
+          - Won Grand Prize for Celestial Navigation
+          - Oversaw multi-day work projects and managed the work and safety of underclass cadets for manual labor
+          - Assisted Chief Mate Doug Nagy with stability calculation and ballast operations
+          - Simulation Training
+          - Fast Rescue Boat Training
+          - Stood Satisfactory Bridge Watches, including in Pilotage and Traffic Scenarios
       - company: Training Ship Golden Bear
         position: Commercial Cadet
         location: Honolulu, San Francisco, San Diego, Vallejo
         start_date: 2022-07
         end_date: 2022-08
         highlights:
-          - 'Stood Mirrored Watches for pilotage and ocean passage. During simulated GPS failure lasting 20 days, demonstrated excellence in celestial and terrestrial navigation. Instructed cohorts and underclassmen from different institutions on technique.'
-          - 'Performed preventative maintenance and inspection on mission critical equipment, shadowed managers for labor projects while continuing to participate.'
+          - Stood Mirrored Watches for pilotage and ocean passage. During simulated GPS failure lasting 20 days, demonstrated excellence in celestial and terrestrial navigation. Instructed cohorts and underclassmen from different institutions on technique.
+          - Performed preventative maintenance and inspection on mission critical equipment, shadowed managers for labor projects while continuing to participate.
       - company: Hydra Offshore Construction
         position: Commercial Cadet, Intern
         location: Port Arthur, TX
         start_date: 2022-05
         end_date: 2022-06
         highlights:
-          - 'Stood 12 hour navigation watches, including hand steering with z-drives up the Mississippi River to New Orleans.'
-          - 'Experience with DP systems including station keeping and DP Autopilot.'
-          - 'Assimilated with international crew from the Philippines.'
-          - 'Performed 12 hours of Day Work daily, including removal of saturation diving system.'
+          - Stood 12 hour navigation watches, including hand steering with z-drives up the Mississippi River to New Orleans.
+          - Experience with DP systems including station keeping and DP Autopilot.
+          - Assimilated with international crew from the Philippines.
+          - Performed 12 hours of Day Work daily, including removal of saturation diving system.
       - company: Training Ship Golden Bear
         position: Underclass Cadet
         location: HNL, VJO
         start_date: 2021-07
         end_date: 2021-08
         highlights:
-          - 'Stood Mirrored Watches as a helmsman, lookout, messenger, and roving security.'
-          - 'Firefighting Training.'
-          - 'Assisted with Day Work'
-          - 'Tied for 1st at Knot Tying Contest'
+          - Stood Mirrored Watches as a helmsman, lookout, messenger, and roving security.
+          - Firefighting Training.
+          - Assisted with Day Work
+          - Tied for 1st at Knot Tying Contest
       - company:  Clark County Parks and Rec
         position: Headguard
         location: Las Vegas, NV
         start_date: 2019-09
         end_date: 2020-08
         highlights:
-          - 'Obtained Red Cross Water Safety Instructor and Lifeguard Instructor Certification.'
-          - 'Promoted to management inside 1 year.'
-          - 'Worked opening shifts at indoor and outdoor pool.'
-          - 'Maintained sanitary conditions.'
-          - 'Performed first aid, taught skill refreshers, conducted safety audits.'
+          - Obtained Red Cross Water Safety Instructor and Lifeguard Instructor Certification.
+          - Promoted to management inside 1 year.
+          - Worked opening shifts at indoor and outdoor pool.
+          - Maintained sanitary conditions.
+          - Performed first aid, taught skill refreshers, conducted safety audits.
     license:
       - label: United States Coast Guard Licensed Merchant Mariner
         details: 
-          - 'Third Mate Unlimited Tons upon Oceans'
-          - 'Master 100 Tons Near Coastal'
-          - 'Able Seaman'
-          - 'Wiper'
-          - 'Food Handler'
+          - Third Mate Unlimited Tons upon Oceans
+          - Master 100 Tons Near Coastal
+          - Able Seaman
+          - Wiper
+          - Food Handler
     projects:
       - name: Celestial Navigation Project Cadet Guide
         date: 2024
         highlights:
-          - 'Developed detailed documents with examples in understandable language specifically crafted for the cadets embarking on Senior Bear Cruise. Made a collaborative repository for those cadets to contribute corrections and additions.'
-          - 'Used GitHub and \LaTeX'
+          - Developed detailed documents with examples in understandable language specifically crafted for the cadets embarking on Senior Bear Cruise. Made a collaborative repository for those cadets to contribute corrections and additions.
+          - Used GitHub and LaTeX
       - name: Sea Shanty Drag
         date: 2023
-       highlights:
-          - 'Recorded a collection of meaningful sea songs in various costumes aboard the former U.S. Army Survey Corps Ship _Sacajawea_ and wrote about their connection to the cultural experience of Mariners, Filipinos, and LGBT people; particularly how they resonate with me as the intersection of those three groups.'
+        highlights:
+          - Recorded a collection of meaningful sea songs in various costumes aboard the former U.S. Army Survey Corps Ship _Sacajawea_ and wrote about their connection to the cultural experience of Mariners, Filipinos, and LGBT people; particularly how they resonate with me as the intersection of those three groups.
       - name: Paddy West School of Seamanship at Dickens Fair
-       date: 2022 and 2023
-       highlights:
-          - 'Taught young children nautical skills including shipboard vocabulary and knot tying.'
-          - 'Performed in singing and acting routines with improvised and memorized segments on and off stage several times daily.'
-#    additional_experience_and_awards:
-#      - label: Instructor (2003 - 2005)
-#        details: Taught two full-credit Computer Science courses.
-#      - label: Third Prize, Senior Design Projects
-#        details: Awarded 3rd prize for a synchronized calendar
-#          project out of 100 projects.
-#    technologies:
-#      - label: Languages
-#        details: C++, C, Java, Objective-C, C#.NET, SQL, JavaScript
-#      - label: Software
-#        details: Visual Studio, Microsoft SQL Server, Eclipse,
-#          XCode, Interface Builder
+        date: 2022
+        highlights:
+          - Taught young children nautical skills including shipboard vocabulary and knot tying.
+          - Performed in singing and acting routines with improvised and memorized segments on and off stage several times daily.
 design:
   theme: classic
   font: Source Sans 3
