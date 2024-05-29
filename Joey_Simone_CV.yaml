@@ -1,36 +1,14 @@
 cv:
-  name: Joey Simone (she/her/he/him)
-
-    #  pronouns: (she/her/he/him)
+  name: Joey Simone #(she/her/he/him)
   location: Vallejo, CA
   email: averagejoey2000@gmail.com
   phone: tel:+1(702)612-5964
-    # website: https://yourwebsite.com/
   social_networks:
     - network: LinkedIn
       username: averagejoey2000
     - network: GitHub
       username: averagejoey2000
   sections:
-    #welcome_to_rendercv!:
-    # - '[RenderCV](https://github.com/sinaatalay/rendercv) is
-    #   a LaTeX CV/resume framework. It allows you to create a
-    #   high-quality CV as a PDF from a YAML file with **full
-    #   Markdown syntax support** and **complete control over
-    #   the LaTeX code**.'
-    # - A substantial part of the content is taken from [here](https://www.careercup.com/resume),
-    #   where a *clean and tidy CV* pattern is proposed by **Gayle
-    #   L. McDowell**.
-#    quick_guide:
-#      - bullet: Each section title is arbitrary, and each section
-#          contains a list of entries.
-#      - bullet: 'There are seven different entry types: *BulletEntry*,
-#          *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*,
-#          *PublicationEntry*, and *OneLineEntry*.'
-#      - bullet: Select a section title, pick an entry type, and
-#          start writing your section!
-#      - bullet: '[Here](https://docs.rendercv.com/user_guide/),
-#          you can find a comprehensive user guide.'
     education:
       - institution: California State University Maritime Academy
         area: Marine Transportation
@@ -112,26 +90,14 @@ cv:
           - 'Worked opening shifts at indoor and outdoor pool.'
           - 'Maintained sanitary conditions.'
           - 'Performed first aid, taught skill refreshers, conducted safety audits.'
-#    publications:
-#      - title: Magneto-Thermal Thin Shell Approximation for 3D
-#          Finite Element Analysis of No-Insulation Coils
-#        authors:
-#          - Albert Smith
-#          - '***Joey Simone***'
-#          - Jane Derry
-#          - Harry Tom
-#          - Frodo Baggins
-#        doi: 10.1109/TASC.2023.3340648
-#        date: 2004-01
     license:
-        - label: United States Coast Guard Licensed Merchant Mariner
-          details: 
+      - label: United States Coast Guard Licensed Merchant Mariner
+        details: 
           - 'Third Mate Unlimited Tons upon Oceans'
           - 'Master 100 Tons Near Coastal'
           - 'Able Seaman'
           - 'Wiper'
           - 'Food Handler'
-
     projects:
       - name: Celestial Navigation Project Cadet Guide
         date: 2024
@@ -140,11 +106,11 @@ cv:
           - 'Used GitHub and \LaTeX'
       - name: Sea Shanty Drag
         date: 2023
-      - highlights:
+       highlights:
           - 'Recorded a collection of meaningful sea songs in various costumes aboard the former U.S. Army Survey Corps Ship _Sacajawea_ and wrote about their connection to the cultural experience of Mariners, Filipinos, and LGBT people; particularly how they resonate with me as the intersection of those three groups.'
       - name: Paddy West School of Seamanship at Dickens Fair
-      - date: 2022 and 2023
-      - highlights:
+       date: 2022 and 2023
+       highlights:
           - 'Taught young children nautical skills including shipboard vocabulary and knot tying.'
           - 'Performed in singing and acting routines with improvised and memorized segments on and off stage several times daily.'
 #    additional_experience_and_awards:
