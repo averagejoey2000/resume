@@ -103,7 +103,6 @@ cv:
         highlights:
           - Recorded a collection of meaningful sea songs in various costumes aboard the former U.S. Army Survey Corps Ship *Sacajawea* and wrote about their connection to the cultural experience of Mariners, Filipinos, and LGBT people; particularly how they resonate with me as the intersection of those three groups.
       - name: Paddy West School of Seamanship at Dickens Fair
-        date: 2022
         highlights:
           - Taught young children nautical skills including shipboard vocabulary and knot tying.
           - Performed in singing and acting routines with improvised and memorized segments on and off stage several times daily.
@@ -114,7 +113,7 @@ design:
   page_size: letterpaper
   color: '#004f90'
   disable_external_link_icons: false
-  disable_page_numbering: true
+  disable_page_numbering: false
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   disable_last_updated_date: false
   last_updated_date_style: Last updated in TODAY
