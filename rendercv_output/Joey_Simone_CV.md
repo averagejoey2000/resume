@@ -92,12 +92,13 @@
 
 - 2024
 - Developed detailed documents with examples in understandable language specifically crafted for the cadets embarking on Senior Bear Cruise. Made a collaborative repository for those cadets to contribute corrections and additions.
-- Used GitHub and \LaTeX
+- [Used GitHub and  aTeX](https://github.com/averagejoey2000/celestial)
 
 ## Sea Shanty Drag
 
 - 2023
 - Recorded a collection of meaningful sea songs in various costumes aboard the former U.S. Army Survey Corps Ship *Sacajawea* and wrote about their connection to the cultural experience of Mariners, Filipinos, and LGBT people; particularly how they resonate with me as the intersection of those three groups.
+- [Video](https://www.youtube.com/watch?v=oUYFaghc-xI)
 
 ## Paddy West School of Seamanship at Dickens Fair
 
