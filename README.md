@@ -14,7 +14,7 @@
 ## California State University Maritime Academy, BS in Marine Transportation
 
 - Aug. 2020 to May 2024
-- GPA: 3.7/3.9 ([Transcript](https://github.com/averagejoey2000/resume/transcript.pdf))
+- GPA: 3.7/3.9 ([Transcript](https://github.com/averagejoey2000/resume/blob/main/transcript.pdf))
 - **Coursework:** Navigation, Ship Business and Management, Ship Stability, Ship Safety, Survival, Minor of Business Administration.
 
 ## College of Southern Nevada, Business
